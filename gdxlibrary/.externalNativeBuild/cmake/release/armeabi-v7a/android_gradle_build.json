@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/kaifa/Documents/GitHubForZsw/CameraTest/gdxlibrary/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/kaifa/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kaifa/Documents/GitHubForZsw/CameraTest/gdxlibrary/.externalNativeBuild/cmake/release/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"nativegdx-Release-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "nativegdx",
+			"buildCommand" : "/Users/kaifa/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kaifa/Documents/GitHubForZsw/CameraTest/gdxlibrary/.externalNativeBuild/cmake/release/armeabi-v7a --target nativegdx",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=armv7-none-linux-androideabi21 --gcc-toolchain=/Users/kaifa/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/kaifa/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnativegdx_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -march=armv7-a -mthumb -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -Oz -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/kaifa/Documents/GitHubForZsw/CameraTest/gdxlibrary/src/main/cpp/Matrix4.cpp",
+					"workingDirectory" : "/Users/kaifa/Documents/GitHubForZsw/CameraTest/gdxlibrary/.externalNativeBuild/cmake/release/armeabi-v7a"
+				}
+			],
+			"output" : "/Users/kaifa/Documents/GitHubForZsw/CameraTest/gdxlibrary/build/intermediates/cmake/release/obj/armeabi-v7a/libnativegdx.so",
+			"toolchain" : "13736132528368887220"
+		}
+	},
+	"toolchains" : 
+	{
+		"13736132528368887220" : 
+		{
+			"cCompilerExecutable" : "/Users/kaifa/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/kaifa/Library/Android/sdk/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

@@ -1,0 +1,15 @@
+Executable : /Users/kaifa/Library/Android/sdk/cmake/3.6.4111459/bin/cmake
+arguments : 
+-H/Users/kaifa/Documents/GitHubForZsw/CameraTest/filterlibrary/src/main/cpp
+-B/Users/kaifa/Documents/GitHubForZsw/CameraTest/filterlibrary/.externalNativeBuild/cmake/debug/armeabi-v7a
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/kaifa/Documents/GitHubForZsw/CameraTest/filterlibrary/build/intermediates/cmake/debug/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Debug
+-DANDROID_NDK=/Users/kaifa/Library/Android/sdk/ndk-bundle
+-DCMAKE_CXX_FLAGS=-std=c++11
+-DCMAKE_TOOLCHAIN_FILE=/Users/kaifa/Library/Android/sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/kaifa/Library/Android/sdk/cmake/3.6.4111459/bin/ninja
+-GAndroid Gradle - Ninja
+jvmArgs : 
+

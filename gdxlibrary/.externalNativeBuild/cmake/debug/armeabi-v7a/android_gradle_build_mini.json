@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/kaifa/Documents/GitHubForZsw/CameraTest/gdxlibrary/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/kaifa/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kaifa/Documents/GitHubForZsw/CameraTest/gdxlibrary/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "nativegdx-Debug-armeabi-v7a": {
+      "artifactName": "nativegdx",
+      "buildCommand": "/Users/kaifa/Library/Android/sdk/cmake/3.6.4111459/bin/cmake --build /Users/kaifa/Documents/GitHubForZsw/CameraTest/gdxlibrary/.externalNativeBuild/cmake/debug/armeabi-v7a --target nativegdx",
+      "abi": "armeabi-v7a",
+      "output": "/Users/kaifa/Documents/GitHubForZsw/CameraTest/gdxlibrary/build/intermediates/cmake/debug/obj/armeabi-v7a/libnativegdx.so"
+    }
+  }
+}
